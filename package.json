@@ -1,0 +1,23 @@
+{
+  "name": "pds",
+  "version": "1.0.0",
+  "description": "For Security Holding Purpose",
+  "homepage": "https://github.com/praneshdhunju/pdsdd#readme",
+  "bugs": {
+    "url": "https://github.com/praneshdhunju/pds/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneshdhunju/pds.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
